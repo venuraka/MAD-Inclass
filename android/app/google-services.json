@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983148713685",
+    "project_id": "incalss",
+    "storage_bucket": "incalss.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983148713685:android:b8fe2a110c2a824e88f45c",
+        "android_client_info": {
+          "package_name": "com.example.degree"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ZNnCsJFWd-v-FjGaiw2Cpg6gvNj5W68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
